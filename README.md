@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Wellinton Tews
 
 
-<br> 
+
 <div align="center">
   <a href="https://github.com/wellintontews">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellintontews&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellintontews&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-  <br> 
+ 
   
   <div style="display: inline_block"><br>
 
